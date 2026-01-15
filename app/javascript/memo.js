@@ -10,7 +10,7 @@ const buildHTML = (XHR) => {
       </div>
     </div>`;
   return html;
-}
+};
 
 function post (){
   const form = document.getElementById("form");
